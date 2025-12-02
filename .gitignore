@@ -10,3 +10,4 @@ cover-*.out
 /cmd/bbolt/bbolt
 .DS_Store
 
+/.vscode
